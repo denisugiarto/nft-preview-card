@@ -1,0 +1,23 @@
+[33mcommit 8ef933ae9e766d7f710206fc7e750ac9b1866f35[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Deni Sugiarto <sugiarto.deni@gmail.com>
+Date:   Sun Dec 5 10:43:11 2021 +0700
+
+    adjust height to 95vh
+
+[33mcommit 56fe624bdee41a656982eb6bb15594677b72a1b4[m
+Author: Deni Sugiarto <sugiarto.deni@gmail.com>
+Date:   Sun Dec 5 10:35:08 2021 +0700
+
+    finish project
+
+[33mcommit b4466e454187fbb92149393c93d0fbeea3e07f86[m
+Author: Deni Sugiarto <sugiarto.deni@gmail.com>
+Date:   Fri Dec 3 08:00:53 2021 +0700
+
+    first commit
+
+[33mcommit a8e2d8cd6b64c23ed27c7165e3fc1eb75a3c3813[m
+Author: Deni Sugiarto <sugiarto.deni@gmail.com>
+Date:   Fri Dec 3 07:58:22 2021 +0700
+
+    Initialize project using Create React App

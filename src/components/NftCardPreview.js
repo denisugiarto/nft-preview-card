@@ -7,7 +7,6 @@ import IconClock from "../assets/icons/icon-clock.svg";
 import ImageAvatar from "../assets/images/image-avatar.png";
 
 const NftCardPreview = () => {
-  console.log("hallo world");
   return (
     <Container>
       <ImageWrapper>
