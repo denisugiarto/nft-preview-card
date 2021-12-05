@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](/blob/main/nft-preview-card.png?raw=true "Optional Title")
+![Alt text](/nft-preview-card.png?raw=true "Live Website")
 
 ### Links
 
