@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://vercel.com/denzord/nft-preview-card
+- Live Site URL: https://nft-preview-card-rosy.vercel.app/
 
 ## Built with
 
